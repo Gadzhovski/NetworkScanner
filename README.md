@@ -41,5 +41,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 This tool is intended for educational and network administration purposes only. Misuse of this software for unauthorized scanning or testing can be illegal and unethical.
 
-## Credits
-Project developed by Radoslav Gadzhovski as part of coursework for the University of Greenwich.
